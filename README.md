@@ -25,7 +25,9 @@ This program needs __discord's API__, it can be installated by "pip install disc
 
 # Usage
 
-!create_roles - Makes Dota 2 heroes roles. Be careful - discord may give you cooldown if u will use it often! __For safety, can be only used in full "novasability.py" program.__
+!create_roles - Makes Dota 2 heroes roles. Be careful - discord may give you cooldown if u will use it often! 
+
+__For safety, !create_roles can be only used in full "novasability.py" program.__
 
 !list_heroes - Lists avaliable heroes
 
