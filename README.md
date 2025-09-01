@@ -15,7 +15,7 @@ This program needs __discord's API__, it can be installated by "pip install disc
 
 5. Run program
 
-6. Enter at this link your Application ID from General information:
+6. Enter at this link (instead of YOURTOKEN) your Application ID from General information:
    https://discord.com/oauth2/authorize?client_id=YOURTOKEN&scope=bot&permissions=%D0%9F%D0%A0%D0%90%D0%92%D0%90
 
 7. Give bot premissions what you need.
