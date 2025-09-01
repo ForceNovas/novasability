@@ -21,4 +21,5 @@ This program needs __discord's API__, it can be installated by "pip install disc
 7. Give bot premissions what you need.
 
 8. Wp!
-<img width="982" height="513" alt="изображение" src="https://github.com/user-attachments/assets/b183b4c8-a8d1-402c-ba96-a4a9c70aed73" />
+<img width="976" height="512" alt="изображение" src="https://github.com/user-attachments/assets/ac506122-af10-45f0-9f56-c4cc53f7a026" />
+
